@@ -5,3 +5,5 @@
 SongFacts in the year:
 
 - January: [Imagine](../song/jan/imagine.md)
+- February: [Mind Games](../song/feb/mind_games.md)
+
