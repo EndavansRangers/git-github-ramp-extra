@@ -16,7 +16,7 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [Queen](writer/queen.md) | queen@onlyrics.magazine
 
-[Bohemian Rhapsody](app/song/feb/Bohemian_Rhapsody.md)
+[Bohemian Rhapsody](song/feb/Bohemian_Rhapsody.md)
 
 ### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
 
