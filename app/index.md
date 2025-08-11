@@ -10,6 +10,8 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Fluorescent Adolescent](song/jan/fluorescent_adolescent.md)
 
+[505](song/feb/505.md)
+
 ### [Jhon Lennon](writer/john_lennon.md) | jhon.lennon@onlyrics.magazine
 
 [Jhon Lennon](song/feb/mind_games.md)
